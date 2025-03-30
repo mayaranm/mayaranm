@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Mayara!
+## ✌🏼 Oi, Sou Mayara!
 
 Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência como **Enfermeira Navegadora Oncológica** e atualmente em transição de carreira para **Análise de Dados**.
 
@@ -9,8 +9,6 @@ Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência como
 ## 💼 Trajetória e foco atual
 
 🎓 Pós-graduada em **Oncologia** e **Gestão de Negócios**, atualmente curso **Análise de Dados com Python (USP)**, com projetos práticos voltados à transformação de dados em insights acionáveis.
-
-📊 Minha missão é unir experiência prática em saúde à ciência de dados, desenvolvendo análises, dashboards e automações que gerem valor para pessoas e organizações.
 
 ---
 
