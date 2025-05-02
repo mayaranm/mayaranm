@@ -26,11 +26,14 @@ Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência como
 
 ## 📌 Repositórios em destaque
 
-- [`Análise_de_Dados_de_Pacientes_Oncológicos`](https://github.com/mayaranm/An-lise_de_Dados_de_Pacientes_Oncol-gicos): análise exploratória, limpeza de dados e criação de dashboard em Power BI.
-- [`calculadoradegorjetas`](https://github.com/mayaranm/calculadoradegorjetas): aplicação prática de lógica e HTML/CSS.
-- [`alurabook`](https://github.com/mayaranm/alurabook): responsividade com HTML e CSS mobile-first.
+- [🧪 Análise_de_Dados_de_Pacientes_Oncológicos](https://github.com/mayaranm/Analise_de_Dados_de_Pacientes_Oncologicos)  
+  análise exploratória, limpeza de dados e criação de dashboard em Power BI a partir de um dataset sintético com contexto clínico.
 
-🔜 Novos projetos com foco em Python, Power BI e storytelling com dados serão publicados em breve!
+- [🔍 Análise_Transacoes_Financeiras](https://github.com/mayaranm/analise-transacoes-financeiras)  
+  projeto em Python com foco em classificação de risco de transações, geração de gráficos (countplot, boxplot e barras empilhadas) e boas práticas de manipulação de dados.
+
+> Em breve: projetos com foco em Power BI, Machine Learning e automações com Python para análise de dados!
+
 
 ---
 
