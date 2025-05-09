@@ -28,13 +28,26 @@ Ferramentas que utilizo no dia a dia para análise, visualização e manipulaç�
 
 ## 📌 Repositórios em destaque
 
-- [🧪 Análise_de_Dados_de_Pacientes_Oncológicos](https://github.com/mayaranm/Analise_de_Dados_de_Pacientes_Oncologicos)  
-  análise exploratória, limpeza de dados e criação de dashboard em Power BI a partir de um dataset sintético com contexto clínico.
+### 🔍 [Análise_Transacoes_Financeiras](https://github.com/mayaranm/analise-transacoes-financeiras)
+Projeto em Python com foco em classificação de risco de transações financeiras. Utiliza boas práticas com **Pandas**, visualizações com **Seaborn** (countplot, boxplot) e lógica de negócio para análise de padrões em dados fictícios.  
+**Tecnologias:** Python, Pandas, Seaborn, VSCode.
 
-- [🔍 Análise_Transacoes_Financeiras](https://github.com/mayaranm/analise-transacoes-financeiras)  
-  projeto em Python com foco em classificação de risco de transações, geração de gráficos (countplot, boxplot e barras empilhadas) e boas práticas de manipulação de dados.
+---
 
-> Em breve: projetos com foco em Power BI, Machine Learning e automações com Python para análise de dados!
+### 🧪 [Analise_de_Dados_de_Pacientes_Oncologicos](https://github.com/mayaranm/Analise_de_Dados_de_Pacientes_Oncologicos)
+Análise exploratória de dados clínicos sintéticos com foco em pacientes oncológicos. O projeto inclui limpeza de dados e criação de **dashboard no Power BI** para acompanhamento de indicadores.  
+**Tecnologias:** Excel, Power BI, Python, Pandas.
+
+---
+
+### 🧮 [SQL_Basico_Analise_Dados](https://github.com/mayaranm/sql_basico_analise_dados)
+Repositório prático com simulações de banco de dados para e-commerce. Inclui consultas com `SELECT`, `JOIN`, `GROUP BY`, `HAVING`, `CASE WHEN`, além de scripts para criação de tabelas e estrutura relacional.  
+**Tecnologias:** SQL (SQLite), GitHub, VSCode.
+
+---
+
+> Em breve: projetos com automação de dashboards, integração SQL + Python, e introdução a machine learning aplicado a dados de negócio.
+
 
 
 ---
