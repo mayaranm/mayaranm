@@ -1,8 +1,11 @@
-## ✌🏼 Oi, Sou Mayara!
+## ✌🏼 Oi, sou Mayara!
 
-Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência como **Enfermeira Navegadora Oncológica** e atualmente em transição de carreira para **Análise de Dados**.
+Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência em saúde como **Enfermeira Navegadora Oncológica**, e atualmente em transição estruturada para a **Análise de Dados**.
 
-📍 Atuo com projetos que combinam saúde, dados e impacto social, enquanto desenvolvo habilidades técnicas sólidas em **Python, Power BI, SQL e GitHub**, com foco em dados aplicados à tomada de decisão.
+📊 Estou focada em desenvolver projetos que aplicam **Python, SQL, Power BI e GitHub** para transformar dados em insights acionáveis — com ênfase em análises orientadas por dados reais, impacto social e melhoria de processos.
+
+🔎 Meu foco atual está em integrar conhecimento técnico com visão estratégica, criando soluções que conectem dados à tomada de decisão no contexto empresarial.
+
 
 ---
 
