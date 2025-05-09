@@ -54,10 +54,10 @@ Repositório prático com simulações de banco de dados para e-commerce. Inclui
 
 ## 📚 Formações
 
-- 📊 **MBA em Análise de Dados com Python – USP (2024–2025)**
+- 📊 **Curso de extensão -  Análise de Dados com Python – USP (2024–2025)**
 - 🎓 Pós em Oncologia e Gestão de Negócios
-- 🧠 MBA em andamento | Transição estruturada para Dados
-- 📈 Formação Power BI e Excel 
+- 🧠 MBA em andamento | Data Science e Analytics USP 
+
 
 ---
 
