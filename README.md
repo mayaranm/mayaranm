@@ -19,8 +19,14 @@ Integração e organização de bases para tomada de decisão.
 
 ## 💼 Trajetória e foco atual
 
-Atualmente atuo como Analista de BI Júnior, desenvolvendo soluções de Business Intelligence e Análise de Dados para o setor de construção civil.
-Minha carreira está direcionada para o uso estratégico de dados, com foco em Power BI, Excel, SQL, automações e Python para transformar informações em insights que impulsionam a tomada de decisão.
+Iniciei minha carreira na área da saúde, onde desenvolvi habilidades de gestão, análise e organização de informações estratégicas.  
+Nos últimos anos, direcionei meu foco para **Análise de Dados** e **Business Intelligence**, consolidando minha transição para o setor corporativo, com atuação atual no segmento de **construção/incorporação**.  
+
+Hoje, trabalho como **Analista de BI Júnior**, desenvolvendo e otimizando **painéis no Power BI** para monitoramento de vendas, estoques e performance técnica de obras. Atuo desde a **integração e modelagem de dados** até a criação de **cockpits executivos**, com foco em eficiência, governança e redução de retrabalho.  
+
+Minha abordagem combina **Excel avançado, Power Query, VBA, SQL e Python**, integrando dados de múltiplas fontes e garantindo métricas confiáveis para a tomada de decisão.  
+Atualmente, estou expandindo minhas competências técnicas com o **MBA em Data Science e Analytics (USP)**, consolidando minha especialização em análise e ciência de dados.
+
 
 ---
 
