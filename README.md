@@ -1,17 +1,26 @@
-## ✌🏼 Oi, sou Mayara!
+## ✌️ Oi, sou Mayara!
+Sou Mayara Nascimento, Analista de BI Júnior com experiência em Análise de Dados e Business Intelligence, atuando no setor da construção civil.
+Possuo mais de 10 anos de experiência prévia na saúde como Enfermeira Navegadora Oncológica, o que me trouxe forte capacidade analítica, visão estratégica e habilidade para transformar dados complexos em informações claras e acionáveis.
 
-Sou **Mayara Nascimento**, profissional com mais de 10 anos de experiência em saúde como **Enfermeira Navegadora Oncológica**, e atualmente em transição estruturada para a **Análise de Dados**.
+💡 Minhas principais competências:
 
-📊 Estou focada em desenvolver projetos que aplicam **Python, SQL, Power BI e GitHub** para transformar dados em insights acionáveis — com ênfase em análises orientadas por dados reais, impacto social e melhoria de processos.
+Desenvolvimento de painéis interativos no Power BI para gestão de indicadores estratégicos.
 
-🔎 Meu foco atual está em integrar conhecimento técnico com visão estratégica, criando soluções que conectem dados à tomada de decisão no contexto empresarial.
+Automação de processos e transformação de dados com Excel, Power Query e VBA.
+
+Consultas e manipulação de dados em SQL.
+
+Integração e organização de bases para tomada de decisão.
+
+🎯 Meu objetivo é criar soluções que gerem valor real para o negócio, conectando dados a decisões estratégicas.
 
 
 ---
 
 ## 💼 Trajetória e foco atual
 
-🎓 Pós-graduada em **Oncologia** e **Gestão de Negócios**, atualmente curso **Análise de Dados com Python (USP)**, com projetos práticos voltados à transformação de dados em insights acionáveis.
+Atualmente atuo como Analista de BI Júnior, desenvolvendo soluções de Business Intelligence e Análise de Dados para o setor de construção civil.
+Minha carreira está direcionada para o uso estratégico de dados, com foco em Power BI, Excel, SQL, automações e Python para transformar informações em insights que impulsionam a tomada de decisão.
 
 ---
 
