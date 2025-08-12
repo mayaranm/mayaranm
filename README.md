@@ -57,9 +57,10 @@ Repositório prático com simulações de banco de dados para e-commerce. Inclui
 
 ## 📚 Formações
 
-- 📊 **Curso de extensão -  Análise de Dados com Python – USP (2024–2025)**
-- 🎓 Pós em Oncologia e Gestão de Negócios
-- 🧠 MBA em andamento | Data Science e Analytics USP 
+- 🎓 Graduação Enfermagem (2011-2014) - Concluído
+- 🎓 Pós em Oncologia e Gestão de Negócios - (2018 e 2024) Concluído
+- 📊 Curso de extensão -  Análise de Dados com Python – USP (2025)  Concluído
+- 🧠 **MBA em andamento | Data Science e Analytics USP** (2025-2026) Andamento
 
 
 ---
